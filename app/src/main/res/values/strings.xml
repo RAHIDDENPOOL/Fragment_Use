@@ -2,4 +2,7 @@
     <string name="app_name">Fragment_use</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg">Message</string>
+    <string name="sendMsg">Send Message</string>
+    <string name="sendMsg2Act">Send Message to Activity</string>
 </resources>
